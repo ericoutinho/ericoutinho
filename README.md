@@ -25,10 +25,10 @@ Formado em Análise e Desenvolvimento de Sistemas, estou sempre buscando aprende
 ##
   
 <div align="left">
-  <a href="https://www.linkedin.com/in/eric-bernardo-coutinho/"> 
+  <a href="https://www.linkedin.com/in/eric-bernardo-coutinho/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/3cdev/">
+  <a href="https://www.instagram.com/3cdev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:ericoutinho@gmail.com"> 
