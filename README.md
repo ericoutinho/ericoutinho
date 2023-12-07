@@ -1,6 +1,6 @@
 ### 👋 Olá! Meu nome é Eric Coutinho
 
-Formado em Análise e Desenvolvimento de Sistemas, estou sempre buscando aprender novas tecnologias e métodos.
+Pós Graduando em Engenharia de Software e graduado em Análise e Desenvolvimento de Sistemas, estou sempre buscando aprender novas tecnologias e métodos.
 
 ##
 
