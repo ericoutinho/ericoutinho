@@ -19,9 +19,8 @@ Formado em Análise e Desenvolvimento de Sistemas, estou sempre buscando aprende
   <img align="center" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/figma-original.svg" />
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
   
